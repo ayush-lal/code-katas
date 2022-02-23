@@ -1,0 +1,28 @@
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearChecker/bin/Debug/netcoreapp3.1/LeapYearChecker
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearChecker/bin/Debug/netcoreapp3.1/LeapYearChecker.deps.json
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearChecker/bin/Debug/netcoreapp3.1/LeapYearChecker.runtimeconfig.json
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearChecker/bin/Debug/netcoreapp3.1/LeapYearChecker.runtimeconfig.dev.json
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearChecker/bin/Debug/netcoreapp3.1/LeapYearChecker.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearChecker/bin/Debug/netcoreapp3.1/LeapYearChecker.pdb
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.csproj.AssemblyReference.cache
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.AssemblyInfoInputs.cache
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.AssemblyInfo.cs
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.csproj.CoreCompileInputs.cache
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.pdb
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.genruntimeconfig.cache
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearChecker/bin/Debug/netcoreapp3.1/LeapYearChecker
+/Users/ayushlal/Documents/Dev/code-katas/C#/Katas/LeapYearChecker/LeapYearChecker/bin/Debug/netcoreapp3.1/LeapYearChecker.deps.json
+/Users/ayushlal/Documents/Dev/code-katas/C#/Katas/LeapYearChecker/LeapYearChecker/bin/Debug/netcoreapp3.1/LeapYearChecker.runtimeconfig.json
+/Users/ayushlal/Documents/Dev/code-katas/C#/Katas/LeapYearChecker/LeapYearChecker/bin/Debug/netcoreapp3.1/LeapYearChecker.runtimeconfig.dev.json
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearChecker/bin/Debug/netcoreapp3.1/LeapYearChecker.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearChecker/bin/Debug/netcoreapp3.1/LeapYearChecker.pdb
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.csproj.AssemblyReference.cache
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.AssemblyInfoInputs.cache
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.AssemblyInfo.cs
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.csproj.CoreCompileInputs.cache
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.pdb
+/Users/ayushlal/Documents/Dev/code-katas/C#/Katas/LeapYearChecker/LeapYearChecker/obj/Debug/netcoreapp3.1/LeapYearChecker.genruntimeconfig.cache

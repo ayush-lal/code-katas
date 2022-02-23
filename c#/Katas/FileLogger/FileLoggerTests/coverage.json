@@ -1,0 +1,237 @@
+{
+  "FileLoggerKata.dll": {
+    "/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A5 - Test Doubles/File Logger Kata/FileLoggerKata/Program.cs": {
+      "HelloWorld.Program": {
+        "System.Void HelloWorld.Program::Main(System.String[])": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A5 - Test Doubles/File Logger Kata/FileLoggerKata/DefaultDataProvider.cs": {
+      "FileLoggerKata.DefaultDataProvider": {
+        "FileLoggerKata.IDateProvider FileLoggerKata.DefaultDataProvider::get_Instance()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime FileLoggerKata.DefaultDataProvider::get_Today()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A5 - Test Doubles/File Logger Kata/FileLoggerKata/FIleLogger.cs": {
+      "FileLoggerKata.FileLogger": {
+        "FileLoggerKata.IDateProvider FileLoggerKata.FileLogger::get_DateProvider()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "FileLoggerKata.IFileSystem FileLoggerKata.FileLogger::get_FileSystem()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Void FileLoggerKata.FileLogger::Log(System.String)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "34": 0,
+            "42": 0
+          },
+          "Branches": [
+            {
+              "Line": 24,
+              "Offset": 32,
+              "EndOffset": 34,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 32,
+              "EndOffset": 43,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 65,
+              "EndOffset": 67,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 65,
+              "EndOffset": 87,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.String FileLoggerKata.FileLogger::GetLogFileName()": {
+          "Lines": {
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0
+          },
+          "Branches": [
+            {
+              "Line": 48,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 19,
+              "EndOffset": 44,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void FileLoggerKata.FileLogger::ArchiveWeekendLog()": {
+          "Lines": {
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0
+          },
+          "Branches": []
+        },
+        "System.String FileLoggerKata.FileLogger::ToFileDateFormat(System.DateTime)": {
+          "Lines": {
+            "61": 0,
+            "62": 0,
+            "63": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean FileLoggerKata.FileLogger::IsWeekend(System.DateTime)": {
+          "Lines": {
+            "65": 0
+          },
+          "Branches": [
+            {
+              "Line": 65,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 8,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean FileLoggerKata.FileLogger::<Log>g__ShouldRotateWeekendLogs|10_0(FileLoggerKata.FileLogger/<>c__DisplayClass10_0&)": {
+          "Lines": {
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0
+          },
+          "Branches": [
+            {
+              "Line": 38,
+              "Offset": 17,
+              "EndOffset": 19,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 36,
+              "EndOffset": 38,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 17,
+              "EndOffset": 84,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 36,
+              "EndOffset": 84,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void FileLoggerKata.FileLogger::.ctor(FileLoggerKata.IFileSystem,FileLoggerKata.IDateProvider)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 11,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

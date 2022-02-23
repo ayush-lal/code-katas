@@ -1,2 +1,3 @@
-# code-katas
-Collection of completed Code Katas
+# Code Katas
+
+A collection of completed Code Katas

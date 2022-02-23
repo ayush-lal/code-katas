@@ -1,0 +1,210 @@
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearChecker.deps.json
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearChecker.runtimeconfig.json
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearChecker.runtimeconfig.dev.json
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearChecker
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/NUnit3.TestAdapter.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/NUnit3.TestAdapter.pdb
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/nunit.engine.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/nunit.engine.api.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/nunit.engine.core.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/testcentric.engine.metadata.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearCheckerTests.deps.json
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearCheckerTests.runtimeconfig.json
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearCheckerTests.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ref/LeapYearCheckerTests.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearCheckerTests.pdb
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/testhost.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/nunit.framework.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearChecker.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearChecker.pdb
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.csproj.AssemblyReference.cache
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.AssemblyInfoInputs.cache
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.AssemblyInfo.cs
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.csproj.CoreCompileInputs.cache
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.csproj.CopyComplete
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/obj/Debug/net6.0/ref/LeapYearCheckerTests.dll
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.pdb
+/Users/ayushlal/Documents/DevricoProjects/Training/Practical/QA Learning Path/Module A4 - NUnit/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.genruntimeconfig.cache
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/NUnit3.TestAdapter.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/NUnit3.TestAdapter.pdb
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/nunit.engine.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/nunit.engine.api.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/nunit.engine.core.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/testcentric.engine.metadata.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearChecker.deps.json
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearChecker.runtimeconfig.json
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearChecker.runtimeconfig.dev.json
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearChecker
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ayushlal/Documents/Dev/code-katas/C#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearCheckerTests.deps.json
+/Users/ayushlal/Documents/Dev/code-katas/C#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearCheckerTests.runtimeconfig.json
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearCheckerTests.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearCheckerTests.pdb
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/testhost.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/nunit.framework.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearChecker.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/bin/Debug/net6.0/LeapYearChecker.pdb
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.csproj.AssemblyReference.cache
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.AssemblyInfoInputs.cache
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.AssemblyInfo.cs
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.csproj.CoreCompileInputs.cache
+/Users/ayushlal/Documents/Dev/code-katas/C#/Katas/LeapYearChecker/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.csproj.CopyComplete
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/obj/Debug/net6.0/refint/LeapYearCheckerTests.dll
+/Users/ayushlal/Documents/Dev/code-katas/c#/Katas/LeapYearChecker/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.pdb
+/Users/ayushlal/Documents/Dev/code-katas/C#/Katas/LeapYearChecker/LeapYearCheckerTests/obj/Debug/net6.0/LeapYearCheckerTests.genruntimeconfig.cache
+/Users/ayushlal/Documents/Dev/code-katas/C#/Katas/LeapYearChecker/LeapYearCheckerTests/obj/Debug/net6.0/ref/LeapYearCheckerTests.dll

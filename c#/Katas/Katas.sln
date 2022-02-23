@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_StackTests", "TDD_StackTests\TDD_StackTests.csproj", "{B02A0AE3-6D38-4DCD-A7E4-1C2FBB1A1417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_LinkedListTests", "TDD_LinkedListTests\TDD_LinkedListTests.csproj", "{DE268F63-047C-45D3-9B6E-F459E05D36E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100Doors", "100Doors\100Doors.csproj", "{B900D3D7-167C-4A67-B0D4-ACD6F7712A24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LeapYearChecker", "LeapYearChecker", "{FE15F4AC-102D-4BA2-B0A1-9F7F3D1B4AD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYearChecker", "LeapYearChecker\LeapYearChecker\LeapYearChecker.csproj", "{E030B2AF-609F-430D-B4B5-21ECFD9DD9CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYearCheckerTests", "LeapYearChecker\LeapYearCheckerTests\LeapYearCheckerTests.csproj", "{D0D72A6A-F2ED-48F4-B028-45A7232E3C67}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MarsRover", "MarsRover", "{6FE481AB-1CF8-46FD-A048-D165027F5E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRoverTests", "MarsRover\MarsRoverTests\MarsRoverTests.csproj", "{DA8BABB1-23C6-4EC7-8A73-4B7E7A5A3973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover", "MarsRover\MarsRover\MarsRover.csproj", "{19C4BE5D-5B6B-4191-BD10-7ECD51626EF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StringCalculator", "StringCalculator", "{88BCAEA6-2E9D-40E2-B77B-4A4059B3F169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculator", "StringCalculator\StringCalculator\StringCalculator.csproj", "{18E04138-93B5-4C3D-AA72-691C54A12D39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorTests", "StringCalculator\StringCalculatorTests\StringCalculatorTests.csproj", "{38D5C94F-69FF-4D24-B108-E5E7A2AD4738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B02A0AE3-6D38-4DCD-A7E4-1C2FBB1A1417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02A0AE3-6D38-4DCD-A7E4-1C2FBB1A1417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02A0AE3-6D38-4DCD-A7E4-1C2FBB1A1417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02A0AE3-6D38-4DCD-A7E4-1C2FBB1A1417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE268F63-047C-45D3-9B6E-F459E05D36E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE268F63-047C-45D3-9B6E-F459E05D36E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE268F63-047C-45D3-9B6E-F459E05D36E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE268F63-047C-45D3-9B6E-F459E05D36E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B900D3D7-167C-4A67-B0D4-ACD6F7712A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B900D3D7-167C-4A67-B0D4-ACD6F7712A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B900D3D7-167C-4A67-B0D4-ACD6F7712A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B900D3D7-167C-4A67-B0D4-ACD6F7712A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E030B2AF-609F-430D-B4B5-21ECFD9DD9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E030B2AF-609F-430D-B4B5-21ECFD9DD9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E030B2AF-609F-430D-B4B5-21ECFD9DD9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E030B2AF-609F-430D-B4B5-21ECFD9DD9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D72A6A-F2ED-48F4-B028-45A7232E3C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D72A6A-F2ED-48F4-B028-45A7232E3C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D72A6A-F2ED-48F4-B028-45A7232E3C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D72A6A-F2ED-48F4-B028-45A7232E3C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8BABB1-23C6-4EC7-8A73-4B7E7A5A3973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8BABB1-23C6-4EC7-8A73-4B7E7A5A3973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8BABB1-23C6-4EC7-8A73-4B7E7A5A3973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8BABB1-23C6-4EC7-8A73-4B7E7A5A3973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C4BE5D-5B6B-4191-BD10-7ECD51626EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C4BE5D-5B6B-4191-BD10-7ECD51626EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C4BE5D-5B6B-4191-BD10-7ECD51626EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C4BE5D-5B6B-4191-BD10-7ECD51626EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E04138-93B5-4C3D-AA72-691C54A12D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E04138-93B5-4C3D-AA72-691C54A12D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E04138-93B5-4C3D-AA72-691C54A12D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E04138-93B5-4C3D-AA72-691C54A12D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D5C94F-69FF-4D24-B108-E5E7A2AD4738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D5C94F-69FF-4D24-B108-E5E7A2AD4738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D5C94F-69FF-4D24-B108-E5E7A2AD4738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D5C94F-69FF-4D24-B108-E5E7A2AD4738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BFD13EB-E465-4536-82CC-45B3A4968783}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E030B2AF-609F-430D-B4B5-21ECFD9DD9CD} = {FE15F4AC-102D-4BA2-B0A1-9F7F3D1B4AD7}
+		{D0D72A6A-F2ED-48F4-B028-45A7232E3C67} = {FE15F4AC-102D-4BA2-B0A1-9F7F3D1B4AD7}
+		{DA8BABB1-23C6-4EC7-8A73-4B7E7A5A3973} = {6FE481AB-1CF8-46FD-A048-D165027F5E2B}
+		{19C4BE5D-5B6B-4191-BD10-7ECD51626EF8} = {6FE481AB-1CF8-46FD-A048-D165027F5E2B}
+		{18E04138-93B5-4C3D-AA72-691C54A12D39} = {88BCAEA6-2E9D-40E2-B77B-4A4059B3F169}
+		{38D5C94F-69FF-4D24-B108-E5E7A2AD4738} = {88BCAEA6-2E9D-40E2-B77B-4A4059B3F169}
+	EndGlobalSection
+EndGlobal
